@@ -75,6 +75,7 @@ This project focuses on analyzing and visualizing sales data from the Sample Sup
    streamlit run app.py
    ```
 4. Use sidebar filters to interact with the dashboard and explore sales data.
+5. Deployed Streamlit Web App: https://sales-analysis-dashboard-mini-project.streamlit.app/
 
 ## Conclusions
 
@@ -88,4 +89,5 @@ This project focuses on analyzing and visualizing sales data from the Sample Sup
 
 * UID: 25MCD10057
 * MCA DS Student, Department of Computer Application, UIC (University Institute of Computing), Chandigarh University
+
 * Python Programming, 1st Semester, 1st Year
